@@ -46,7 +46,7 @@ Keywords: Formal verification, Deep learning, Optimal control, Behaviour modelin
 
 [Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://arxiv.org/pdf/1905.02081.pdf)\
 **Geunseob (GS) Oh**, David J. LeBlanc, Huei Peng\
-Arxiv, 2019.\
+IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020 (To appear).\
 Keywords: Dataset, Autonomous driving
 <br />
 
@@ -57,11 +57,11 @@ Keywords: Optimal control, Dynamic programming, Autonomous driving
 
 <br />
 
-#### In Review
+#### Preprint
 
 [Flow-based Autoencoders for Music Generation]()\
 **Geunseob (GS) Oh**, Liang Li, Xingjian Shi, Dylan Jackson, Rahul Suresh, Zachary Lipton\
-Workshop for Machine Learning for Creativity and Design at Conference on Neural Information Processing Systems (NeurIPS), 2020.\
+Arxiv, 2020.\
 Keywords: Normalizing flow, Variational autoencoder, Transformer, Hyper-network
 
 <br />
