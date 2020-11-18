@@ -20,7 +20,7 @@ Contact: gsoh@umich.edu
 
 ## Publication
 
-[HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting](https://openaccess.thecvf.com/content_CVPR_2020/html/Oh_HCNAF_Hyper-Conditioned_Neural_Autoregressive_Flow_and_its_Application_for_Probabilistic_CVPR_2020_paper.html)\
+[HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting](https://openaccess.thecvf.com/content_CVPR_2020/html/Oh_HCNAF_Hyper-Conditioned_Neural_Autoregressive_Flow_and_its_Application_for_Probabilistic_CVPR_2020_paper.html), [[Code](https://github.com/gsoh/HCNAF)]\
 **Geunseob (GS) Oh**, Jean-Sebastien Valois\
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.\
 Keywords: Normalizing flow, Autoregressive models, Hyper-network, Autonomous driving, Density estimation
@@ -44,7 +44,7 @@ American Control Conference (ACC), 2020.\
 Keywords: Formal verification, Deep learning, Optimal control, Behaviour modeling
 <br />
 
-[Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://arxiv.org/pdf/1905.02081.pdf)\
+[Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://doi.org/10.1109/TITS.2020.3035596), [[Code](https://github.com/gsoh/VED)]\
 **Geunseob (GS) Oh**, David J. LeBlanc, Huei Peng\
 IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020 (To appear).\
 Keywords: Dataset, Autonomous driving
