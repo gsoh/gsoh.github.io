@@ -81,3 +81,9 @@ EECS545 - Machine Learning (with Prof. Honglak Lee): Teaching assistant (Jan - M
 - May 2019 - Aug 2019: Software Engineering Intern, Uber ATG
 
 - Jun 2014 - Aug 2014: Undergraduate Student Intern, Harvard-MIT HST program
+
+<br />
+<br />
+
+## Favorite Quote
+[Quote from Interstellar (2014)](https://www.youtube.com/watch?v=3WzHXI5HizQ):  <em>"We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievements. But we lost all that. Or perhaps we've just forgotten that we are still pioneers. And we've barely begun. And that our greatest accomplishments cannot be behind us, because our destiny lies above us."</em>
