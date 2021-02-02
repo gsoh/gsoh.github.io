@@ -20,7 +20,7 @@ Contact: gsoh@umich.edu
 
 ## Publication
 
-[HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting](https://openaccess.thecvf.com/content_CVPR_2020/html/Oh_HCNAF_Hyper-Conditioned_Neural_Autoregressive_Flow_and_its_Application_for_Probabilistic_CVPR_2020_paper.html)\
+[HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting](https://openaccess.thecvf.com/content_CVPR_2020/html/Oh_HCNAF_Hyper-Conditioned_Neural_Autoregressive_Flow_and_its_Application_for_Probabilistic_CVPR_2020_paper.html), [[Code](https://github.com/gsoh/HCNAF)]\
 **Geunseob (GS) Oh**, Jean-Sebastien Valois\
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.\
 Keywords: Normalizing flow, Autoregressive models, Hyper-network, Autonomous driving, Density estimation
@@ -44,7 +44,7 @@ American Control Conference (ACC), 2020.\
 Keywords: Formal verification, Deep learning, Optimal control, Behaviour modeling
 <br />
 
-[Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://arxiv.org/pdf/1905.02081.pdf)\
+[Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://doi.org/10.1109/TITS.2020.3035596), [[Code](https://github.com/gsoh/VED)]\
 **Geunseob (GS) Oh**, David J. LeBlanc, Huei Peng\
 IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020 (To appear).\
 Keywords: Dataset, Autonomous driving
@@ -84,3 +84,9 @@ EECS545 - Machine Learning (with Prof. Honglak Lee): Teaching assistant (Jan - M
 - May 2019 - Aug 2019: Software Engineering Intern, Uber ATG
 
 - Jun 2014 - Aug 2014: Undergraduate Student Intern, Harvard-MIT HST program
+
+<br />
+<br />
+
+## Favorite Quote
+[Quote from Interstellar (2014)](https://www.youtube.com/watch?v=3WzHXI5HizQ):  <em>"We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievements. But we lost all that. Or perhaps we've just forgotten that we are still pioneers. And we've barely begun. And that our greatest accomplishments cannot be behind us, because our destiny lies above us."</em>
