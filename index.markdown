@@ -64,7 +64,7 @@ Keywords: Optimal control, Dynamic programming, Autonomous driving
 Keywords: Deep learning, Variational autoencoder, Forecasting, Hypernetwork, Autonomous driving.
 
 [Thesis: A Probabilistic Approach to Prediction and Planning for Autonomous Driving in Urban Area]()\
-**Geunseob (GS) Oh**, Huei Peng, Honglakk Lee, Ram Vasudevan, Ilya Kolmanovsky\
+**Geunseob (GS) Oh**, Huei Peng, Honglak Lee, Ram Vasudevan, Ilya Kolmanovsky\
 Keywords: Generative models, Probabilistic ML, Model-based RL, Optimal control.
 
 <br />
