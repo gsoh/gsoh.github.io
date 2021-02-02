@@ -10,7 +10,7 @@ layout: home
 
 I am a Ph.D. candidate at the University of Michigan. I work on probabilistic models for autonomous driving and artificial intelligence. My research field lies at the intersection of machine learning, optimal control, and reinforcement learning. My recent works include generative models (e.g., normalizing flow and VAE) and prediction & planning of autonomous vehicles.
 
-I spent the past summer interning at Amazon AI where I researched deep generative models for music generation using variational inference and normalizing flow. Earlier this year, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive flow and prediction models for autonomous driving.
+I spent the past summer interning at Amazon AI where I researched deep generative models for music generation using Transformer, variational inference, and flow. Earlier this year, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive flow and prediction models for autonomous driving.
 
 <br />
 Contact: gsoh@umich.edu
@@ -57,12 +57,15 @@ Keywords: Optimal control, Dynamic programming, Autonomous driving
 
 <br />
 
-#### Preprint
+#### In preparation
 
-[Flow-based Autoencoders for Music Generation]()\
-**Geunseob (GS) Oh**, Liang Li, Xingjian Shi, Dylan Jackson, Rahul Suresh, Zachary Lipton\
-Arxiv, 2020.\
-Keywords: Normalizing flow, Variational autoencoder, Transformer, Hyper-network
+[Augmenting Conditional VAE with Hypernetwork for Trajectory Forecasting of Vehicles]()\
+**Geunseob (GS) Oh**, Huei Peng\
+Keywords: Deep learning, Variational autoencoder, Forecasting, Hypernetwork, Autonomous driving.
+
+[Thesis: A Probabilistic Approach to Prediction and Planning for Autonomous Driving in Urban Area]()\
+**Geunseob (GS) Oh**, Huei Peng, Honglakk Lee, Ram Vasudevan, Ilya Kolmanovsky\
+Keywords: Generative models, Probabilistic ML, Model-based RL, Optimal control.
 
 <br />
 <br />
