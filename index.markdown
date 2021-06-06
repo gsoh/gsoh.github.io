@@ -8,9 +8,9 @@ layout: home
 
 ![GS Oh](assets/img/GS_profile.JPG){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
 
-I am a Ph.D. candidate at the University of Michigan. I work on probabilistic models for autonomous driving and artificial intelligence. My research field lies at the intersection of machine learning, optimal control, and reinforcement learning. My recent works include generative models (e.g., normalizing flow and VAE) and prediction & planning of autonomous vehicles.
+I am a final year PhD candidate at the University of Michigan. I work on probabilistic ML models for autonomous driving and AI applications. My recent works include generative models (e.g., Normalizing flow, VAE, Transformers) and applications of them for sequence predictions & generations for AI applications.
 
-I spent the past summer interning at Amazon AI where I researched deep generative models for music generation using Transformer, variational inference, and flow. Earlier this year, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive flow and prediction models for autonomous driving.
+I'll be spending this summer interning at Google and working on neural sequence models for NLU. I spent my last summer interning at Amazon AI where I researched deep generative models for music generation using Transformer and variational inference. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive flow and prediction models for autonomous driving.
 
 <br />
 Contact: gsoh@umich.edu
@@ -77,11 +77,13 @@ EECS545 - Machine Learning (with Prof. Honglak Lee): Teaching assistant (Jan - M
 <br />
 
 ## Professional Experience
+- Jun 2021 - Aug 2021: PhD Software Engineer Intern, Google Search
+
 - Jun 2020 - Sep 2020: Applied Scientist Intern, Amazon AI
 
 - Sep 2019 - Dec 2019: Research Intern, Uber ATG
 
-- May 2019 - Aug 2019: Software Engineering Intern, Uber ATG
+- May 2019 - Aug 2019: Software Engineer Intern, Uber ATG
 
 - Jun 2014 - Aug 2014: Undergraduate Student Intern, Harvard-MIT HST program
 
