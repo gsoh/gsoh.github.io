@@ -8,9 +8,9 @@ layout: home
 
 ![GS Oh](assets/img/GS_profile.JPG){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
 
-I am a final year PhD candidate at the University of Michigan. I work on probabilistic ML models for autonomous driving and AI applications. My recent works include generative models (e.g., Normalizing flow, VAE, Transformers) and applications of them for sequence predictions & generations for AI applications.
+I am a final year PhD candidate at the University of Michigan. I work on probabilistic ML models (generative models & sequence models) for AI applications. My recent works include Normalizing flow, Variational autoencoders, Transformers and applications of them for sequence predictions & generations for AI applications.
 
-I'll be spending this summer interning at Google and working on neural sequence models for NLU. I spent my last summer interning at Amazon AI where I researched deep generative models for music generation using Transformer and variational inference. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive flow and prediction models for autonomous driving.
+I spent this summer interning at Google and worked on neural sequence models for NLU. I spent my last summer interning at Amazon AI where I researched deep generative models for music generation using Transformer and variational inference. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive flow and prediction models for autonomous driving.
 
 <br />
 Contact: gsoh@umich.edu
