@@ -8,9 +8,9 @@ layout: home
 
 ![GS Oh](assets/img/GS_profile.JPG){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
 
-I am a final year PhD candidate at the University of Michigan. I work on probabilistic ML models for autonomous driving and AI applications. My recent works include generative models (e.g., Normalizing flow, VAE, Transformers) and applications of them for sequence predictions & generations for AI applications.
+I am a software engineer at Google. At Google, I develop ML/AI models and platforms for automatic speech recognition. I recently earned my Ph.D. degree at the University of Michigan where I worked on probabilistic ML models for autonomous driving and AI applications. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and applications of them for AI applications including autonomous driving (prediction & planning) and sequence predictions.
 
-I'll be spending this summer interning at Google and working on neural sequence models for NLU. I spent my last summer interning at Amazon AI where I researched deep generative models for music generation using Transformer and variational inference. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive flow and prediction models for autonomous driving.
+In Summer 2021, I was a PhD intern at Google and developed a Transformer-based non-autoregressive neural sequence model for NLU. In Summer 2020, I interning at Amazon AI where I researched deep generative models for music generation using Transformer and variational inference. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive prediction models and normalizing flow for autonomous driving.
 
 <br />
 Contact: gsoh@umich.edu
@@ -46,7 +46,7 @@ Keywords: Formal verification, Deep learning, Optimal control, Behaviour modelin
 
 [Vehicle Energy Dataset (VED), A Large-scale Dataset for Vehicle Energy Consumption Research](https://doi.org/10.1109/TITS.2020.3035596), [[Code](https://github.com/gsoh/VED)]\
 **Geunseob (GS) Oh**, David J. LeBlanc, Huei Peng\
-IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020 (To appear).\
+IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2020.\
 Keywords: Dataset, Autonomous driving
 <br />
 
@@ -55,29 +55,43 @@ Keywords: Dataset, Autonomous driving
 IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018.\
 Keywords: Optimal control, Dynamic programming, Autonomous driving
 
+
 <br />
-
-#### In preparation
-
-[Augmenting Conditional VAE with Hypernetwork for Trajectory Forecasting of Vehicles]()\
-**Geunseob (GS) Oh**, Huei Peng\
-Keywords: Deep learning, Variational autoencoder, Forecasting, Hypernetwork, Autonomous driving.
-
-[Thesis: A Probabilistic Approach to Prediction and Planning for Autonomous Driving in Urban Area]()\
+#### Ph.D. Thesis
+ 
+A Prediction and Planning Framework for Scalable Autonomous Driving in Urban Areas\
 **Geunseob (GS) Oh**, Huei Peng, Honglak Lee, Ram Vasudevan, Ilya Kolmanovsky\
-Keywords: Generative models, Probabilistic ML, Model-based RL, Optimal control.
+Available soon.\
+Keywords: Autonomous driving, Generative models, Probabilistic ML, Density estimation, Model-based RL, Optimal control.
+
+
+<br />
+#### Preprints / 
+
+[CVAE-H: Conditionalizing Variational Autoencoders via Hypernetworks and Trajectory Forecasting for Autonomous Driving](https://arxiv.org/abs/2201.09874)\
+**Geunseob (GS) Oh**, Huei Peng\
+Arxiv, 2022.\
+Keywords: Generative models, Autonomous driving, Variational autoencoder, Hypernetwork, Deep learning.
 
 <br />
 <br />
+
+
+
+
 
 ## Teaching
 EECS545 - Machine Learning (with Prof. Honglak Lee): Teaching assistant (Jan - May 2020)
+
+
 
 <br />
 <br />
 
 ## Professional Experience
-- Jun 2021 - Aug 2021: PhD Software Engineer Intern, Google Search
+- Feb 2022 - Current: Software Engineer, Google
+
+- Jun 2021 - Aug 2021: PhD Software Engineer Intern, Google
 
 - Jun 2020 - Sep 2020: Applied Scientist Intern, Amazon AI
 
@@ -86,6 +100,9 @@ EECS545 - Machine Learning (with Prof. Honglak Lee): Teaching assistant (Jan - M
 - May 2019 - Aug 2019: Software Engineer Intern, Uber ATG
 
 - Jun 2014 - Aug 2014: Undergraduate Student Intern, Harvard-MIT HST program
+
+
+
 
 <br />
 <br />
