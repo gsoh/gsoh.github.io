@@ -8,7 +8,9 @@ layout: home
 
 ![GS Oh](assets/img/GS_profile.JPG){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
 
-I am a software engineer at Google. At Google, I develop ML/AI models and platforms for automatic speech recognition. I recently earned my Ph.D. degree at the University of Michigan where I worked on probabilistic ML models for autonomous driving and AI applications. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and applications of them for AI applications including autonomous driving (prediction & planning) and sequence predictions.
+I am a software engineer at Google. At Google, I develop ML/AI models and platforms for automatic speech recognition. 
+
+I recently earned my Ph.D. degree at the University of Michigan where I worked on probabilistic ML models for autonomous driving and AI applications. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and applications of them for AI applications including autonomous driving (prediction & planning) and sequence predictions.
 
 In Summer 2021, I was a PhD intern at Google and developed a Transformer-based non-autoregressive neural sequence model for NLU. In Summer 2020, I interning at Amazon AI where I researched deep generative models for music generation using Transformer and variational inference. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive prediction models and normalizing flow for autonomous driving.
 
@@ -57,6 +59,7 @@ Keywords: Optimal control, Dynamic programming, Autonomous driving
 
 
 <br />
+
 #### Ph.D. Thesis
  
 A Prediction and Planning Framework for Scalable Autonomous Driving in Urban Areas\
@@ -66,12 +69,23 @@ Keywords: Autonomous driving, Generative models, Probabilistic ML, Density estim
 
 
 <br />
-#### Preprints / 
+
+#### Preprints
 
 [CVAE-H: Conditionalizing Variational Autoencoders via Hypernetworks and Trajectory Forecasting for Autonomous Driving](https://arxiv.org/abs/2201.09874)\
 **Geunseob (GS) Oh**, Huei Peng\
 Arxiv, 2022.\
 Keywords: Generative models, Autonomous driving, Variational autoencoder, Hypernetwork, Deep learning.
+
+
+<br />
+
+#### Patents
+
+[Vehicle trajectory prediction near or at traffic signal](https://patents.google.com/patent/US20210276594A1/en)\
+**Geunseob (GS) Oh**, Huei Peng\
+Published in 2021.\
+Keywords: Autonomous driving, Self-driving, Connected vehicles, Traffic lights, Deep learning.
 
 <br />
 <br />
