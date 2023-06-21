@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-![GS Oh](assets/img/GS_profile.JPG){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
+![GS Oh](assets/img/GS_profile.jpeg){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
 
 I am a software engineer at Google. At Google, I train self/semi-supervised multilingual end-to-end ML models for automatic speech recognition and deliver them to the partners such as Pixel, Assistant, Youtube, and Google Cloud. 
 
