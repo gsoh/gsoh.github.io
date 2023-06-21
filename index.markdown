@@ -8,11 +8,11 @@ layout: home
 
 ![GS Oh](assets/img/GS_profile.JPG){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
 
-I am a software engineer at Google. At Google, I develop ML/AI models and platforms for automatic speech recognition. 
+I am a software engineer at Google. At Google, I train self/semi-supervised multilingual end-to-end ML models for automatic speech recognition and deliver them to the partners such as Pixel, Assistant, Youtube, and Google Cloud. 
 
-I recently earned my Ph.D. degree at the University of Michigan where I worked on probabilistic ML models for autonomous driving and AI applications. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and applications of them for AI applications including autonomous driving (prediction & planning) and sequence predictions.
+I earned my Ph.D. degree at the University of Michigan where I worked on generative AIs and decision-making under uncertainty. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and learning-based planners (model-based RL, optimal control), mainly in the context of autonomous driving (prediction & planning) and sequence prediction applications (e.g., NLP).
 
-In Summer 2021, I was a PhD intern at Google and developed a Transformer-based non-autoregressive neural sequence model for NLU. In Summer 2020, I interning at Amazon AI where I researched deep generative models for music generation using Transformer and variational inference. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive prediction models and normalizing flow for autonomous driving.
+In Summer 2021, I was a PhD intern at Google and developed a Transformer-based non-autoregressive neural sequence model for natural language processing. In Summer 2020, I interning at Amazon AI where I researched deep generative models for music generation using Transformers. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive generative models and normalizing flow for autonomous driving.
 
 <br />
 Contact: gsoh@umich.edu
@@ -21,11 +21,16 @@ Contact: gsoh@umich.edu
 <br />
 
 ## Publication
+[Improving Top-K Decoding for Non-Autoregressive Semantic Parsing Via Intent Conditioning](https://openreview.net/forum?id=Df227Ih8tqY)\
+**Geunseob (GS) Oh**, Rahul Goel, Chris Hidey, Shachi Paul, Aditya Gupta, Pararth Shah, Rushin Shah\
+International Conference on Computational Linguistics (COLING), 2022.\
+Keywords: Transformers, Conversational Agents, Language Models, Semantic Parsing, NLP
+<br />
 
 [HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting](https://openaccess.thecvf.com/content_CVPR_2020/html/Oh_HCNAF_Hyper-Conditioned_Neural_Autoregressive_Flow_and_its_Application_for_Probabilistic_CVPR_2020_paper.html), [[Code](https://github.com/gsoh/HCNAF)]\
 **Geunseob (GS) Oh**, Jean-Sebastien Valois\
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.\
-Keywords: Normalizing flow, Autoregressive models, Hyper-network, Autonomous driving, Density estimation
+Keywords: Normalizing flow, Autoregressive models, Generative Models, Hyper-network, Autonomous driving, Density estimation
 <br />
 
 [Control-theoretic Evaluation of Policy in Sequential Decision Making via Data-driven Differential Game](https://openreview.net/forum?id=Df227Ih8tqY)\
@@ -37,7 +42,7 @@ Keywords: Robust control, Differential game, Reinforcement learning, Anomaly det
 [Impact of Traffic Lights on Trajectory Forecasting of Human-driven Vehicles Near Signalized Intersections](https://arxiv.org/abs/1906.00486.pdf)\
 **Geunseob (GS) Oh**, Huei Peng\
 Workshop on Planning, Perception and Navigation for Intelligent Vehicles at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.\
-Keywords: Deep learning, Generative Model, Mixture density network, Autonomous driving, Behaviour cloning
+Keywords: Deep learning, Generative Models, Mixture density network, Autonomous driving, Behaviour cloning
 <br />
 
 [A Data-driven Model of Human Driver Behavior Using Falsification](https://arxiv.org/abs/1912.08361.pdf)\
@@ -65,7 +70,7 @@ Keywords: Optimal control, Dynamic programming, Autonomous driving
 A Prediction and Planning Framework for Scalable Autonomous Driving in Urban Areas\
 **Geunseob (GS) Oh**, Huei Peng, Honglak Lee, Ram Vasudevan, Ilya Kolmanovsky\
 Available soon.\
-Keywords: Autonomous driving, Generative models, Probabilistic ML, Density estimation, Model-based RL, Optimal control.
+Keywords: Autonomous driving, Generative models, Model-based RL, Probabilistic ML, Optimal control.
 
 
 <br />
