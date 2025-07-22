@@ -10,7 +10,7 @@ layout: home
 
 I am a research engineer at Google DeepMind. My current interest includes AI agents, LLM post-training, and generative models. I am a core contributor of Gemini Deep Research and I have worked on reasoning, planning for tool/extensions for LLMs. Previously I worked on self/semi-supervised i18n models for automatic speech recognition and deliver them to the partners such as Pixel, Assistant, Youtube, and Google Cloud. 
 
-I earned my Ph.D. degree at the University of Michigan where I worked on generative AIs and decision-making under uncertainty. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and learning-based planners (model-based RL, optimal control, PPO), mainly in the context of autonomous driving (prediction & planning) and sequence prediction applications (e.g., NLP). In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. 
+I earned my Ph.D. degree at the University of Michigan where I worked on generative AIs and decision-making under uncertainty. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and learning-based planners (model-based RL, optimal control, as well as some model-free RLs), mainly in the context of autonomous driving (prediction & planning) and sequence prediction applications (e.g., NLP). In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. 
 
 During my PhD, I did an internship at Google where I developed a Transformer-based non-autoregressive neural sequence model for natural language processing. I also interned at Amazon AI (AWS AI) where I researched deep generative models for music generation using Transformers. In 2019, I interned at Uber ATG where I worked on autoregressive generative models and normalizing flow for autonomous driving.
 
@@ -25,6 +25,12 @@ Contact: gsoh@umich.edu
 **Geunseob (GS) Oh**, Rahul Goel, Chris Hidey, Shachi Paul, Aditya Gupta, Pararth Shah, Rushin Shah\
 International Conference on Computational Linguistics (COLING), 2022.\
 Keywords: Transformers, Conversational Agents, Language Models, Semantic Parsing, NLP
+<br />
+
+[CVAE-H: Conditionalizing Variational Autoencoders via Hypernetworks and Trajectory Forecasting for Autonomous Driving](https://arxiv.org/abs/2201.09874)\
+**Geunseob (GS) Oh**, Huei Peng\
+Arxiv, 2022.\
+Keywords: Generative models, Autonomous driving, Variational autoencoder, Hypernetwork, Deep learning.
 <br />
 
 [HCNAF: Hyper-Conditioned Neural Autoregressive Flow and its Application for Probabilistic Occupancy Map Forecasting](https://openaccess.thecvf.com/content_CVPR_2020/html/Oh_HCNAF_Hyper-Conditioned_Neural_Autoregressive_Flow_and_its_Application_for_Probabilistic_CVPR_2020_paper.html), [[Code](https://github.com/gsoh/HCNAF)]\
@@ -72,15 +78,6 @@ A Prediction and Planning Framework for Scalable Autonomous Driving in Urban Are
 Available soon.\
 Keywords: Autonomous driving, Generative models, Model-based RL, Probabilistic ML, Optimal control.
 
-
-<br />
-
-#### Preprints
-
-[CVAE-H: Conditionalizing Variational Autoencoders via Hypernetworks and Trajectory Forecasting for Autonomous Driving](https://arxiv.org/abs/2201.09874)\
-**Geunseob (GS) Oh**, Huei Peng\
-Arxiv, 2022.\
-Keywords: Generative models, Autonomous driving, Variational autoencoder, Hypernetwork, Deep learning.
 
 
 <br />
