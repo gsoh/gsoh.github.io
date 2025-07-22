@@ -21,7 +21,7 @@ Contact: gsoh@umich.edu
 <br />
 
 ## Publication
-[Improving Top-K Decoding for Non-Autoregressive Semantic Parsing Via Intent Conditioning](https://openreview.net/forum?id=Df227Ih8tqY)\
+[Improving Top-K Decoding for Non-Autoregressive Semantic Parsing Via Intent Conditioning](https://aclanthology.org/2022.coling-1.24.pdf)\
 **Geunseob (GS) Oh**, Rahul Goel, Chris Hidey, Shachi Paul, Aditya Gupta, Pararth Shah, Rushin Shah\
 International Conference on Computational Linguistics (COLING), 2022.\
 Keywords: Transformers, Conversational Agents, Language Models, Semantic Parsing, NLP
