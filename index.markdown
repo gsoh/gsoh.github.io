@@ -8,7 +8,7 @@ layout: home
 
 ![GS Oh](assets/img/GS_profile.jpeg){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
 
-I am a research engineer at Google DeepMind. My interest is AI agents, LLM post-training, and generative models. I am a core contributor of Gemini Deep Research and I have worked on reasoning, planning for tool/extensions for LLMs. Previously I worked on self/semi-supervised i18n models for automatic speech recognition and deliver them to the partners such as Pixel, Assistant, Youtube, and Google Cloud. 
+I am a research engineer at Google DeepMind. My current interest includes AI agents, LLM post-training, and generative models. I am a core contributor of Gemini Deep Research and I have worked on reasoning, planning for tool/extensions for LLMs. Previously I worked on self/semi-supervised i18n models for automatic speech recognition and deliver them to the partners such as Pixel, Assistant, Youtube, and Google Cloud. 
 
 I earned my Ph.D. degree at the University of Michigan where I worked on generative AIs and decision-making under uncertainty. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and learning-based planners (model-based RL, optimal control, PPO), mainly in the context of autonomous driving (prediction & planning) and sequence prediction applications (e.g., NLP). In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. 
 
