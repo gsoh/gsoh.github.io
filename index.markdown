@@ -8,11 +8,11 @@ layout: home
 
 ![GS Oh](assets/img/GS_profile.jpeg){:style="width: 150px; overflow: hidden; float: right; padding-left: 15px"}
 
-I am a software engineer at Google. At Google, I train self/semi-supervised multilingual end-to-end ML models for automatic speech recognition and deliver them to the partners such as Pixel, Assistant, Youtube, and Google Cloud. 
+I am a research engineer at Google DeepMind. My interest is AI agents, LLM post-training, and generative models. I am a core contributor of Gemini Deep Research and I have worked on reasoning, planning for tool/extensions for LLMs. Previously I worked on self/semi-supervised i18n models for automatic speech recognition and deliver them to the partners such as Pixel, Assistant, Youtube, and Google Cloud. 
 
-I earned my Ph.D. degree at the University of Michigan where I worked on generative AIs and decision-making under uncertainty. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and learning-based planners (model-based RL, optimal control), mainly in the context of autonomous driving (prediction & planning) and sequence prediction applications (e.g., NLP).
+I earned my Ph.D. degree at the University of Michigan where I worked on generative AIs and decision-making under uncertainty. My PhD research focused on generative models (Normalizing flow, VAE, and Transformers) and learning-based planners (model-based RL, optimal control, PPO), mainly in the context of autonomous driving (prediction & planning) and sequence prediction applications (e.g., NLP). In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. 
 
-In Summer 2021, I was a PhD intern at Google and developed a Transformer-based non-autoregressive neural sequence model for natural language processing. In Summer 2020, I interning at Amazon AI where I researched deep generative models for music generation using Transformers. In early 2020, I was a teaching assistant for the Machine Learning course (EECS545) at the University of Michigan. In 2019, I interned at Uber ATG where I worked on autoregressive generative models and normalizing flow for autonomous driving.
+During my PhD, I did an internship at Google where I developed a Transformer-based non-autoregressive neural sequence model for natural language processing. I also interned at Amazon AI (AWS AI) where I researched deep generative models for music generation using Transformers. In 2019, I interned at Uber ATG where I worked on autoregressive generative models and normalizing flow for autonomous driving.
 
 <br />
 Contact: gsoh@umich.edu
@@ -108,17 +108,12 @@ EECS545 - Machine Learning (with Prof. Honglak Lee): Teaching assistant (Jan - M
 <br />
 
 ## Professional Experience
-- Feb 2022 - Current: Software Engineer, Google
-
-- Jun 2021 - Aug 2021: PhD Software Engineer Intern, Google
-
-- Jun 2020 - Sep 2020: Applied Scientist Intern, Amazon AI
-
-- Sep 2019 - Dec 2019: Research Intern, Uber ATG
-
-- May 2019 - Aug 2019: Software Engineer Intern, Uber ATG
-
-- Jun 2014 - Aug 2014: Undergraduate Student Intern, Harvard-MIT HST program
+- 2022 - curr: Research Engineer, Google DeepMind
+- 2015 - 2021: PhD @ University of Michigan 
+- Summer 2021: Research Intern, Google
+- Summer 2020: Applied Scientist Intern, Amazon AI
+- Summer 2019: Research Intern, Uber ATG
+- Summer 2014: Software engineer Intern, Harvard-MIT HST program
 
 
 
